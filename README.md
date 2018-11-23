@@ -25,10 +25,12 @@ If you have bought some kind of media and no longer have access to them due to c
 4. Browse to the media source using Torch, for example https://youtu.be/LIiLoT4Po-c
 5. Click on the button to the right of the navigation bar that looks like an arrow pointing to an upside down staple and select the download format (just video file or video and audio files) and location. *Note: there is no need to wait for the video or audio to buffer before downloading it. Another benefit.* 
 
-Video
+Video:
+
 6. Open video in compatible application after download completes.
 
-Audio Files (Single / Multiple)
+Audio Files (Single / Multiple):
+
 6. Navigate to an online conversion website: https://online-audio-converter.com/ It's also free.
 7. Here you select all files, desired format, and I always use the highest quality I can, then click convert.
 8. Download and extract zip file.
