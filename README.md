@@ -36,7 +36,7 @@ Audio Files (Single / Multiple):
 8. Download and extract zip file.
 9. Open audio in compatible application after download completes.
 
-*Note: There was some reason that I didn't use the conversion website's "Edit Track Info" option. Either it wasn't in depth enough for my liking or it didn't wwork for multiple files. Once converted, if you want metadata attached, unfortunately you have to do this manually because Torch doesn't add metadata upon downloading. But tell me a way where you won't have to do this manually. Plus, it's a good weekend project to listen to a few albums and add titles, artist, track info, discover new songs and artists and expand your knowledge of the world of music.*
+*Note: There was some reason that I didn't use the conversion website's "Edit Track Info" option. Either it wasn't in depth enough for my liking or it didn't work for multiple files. Once converted, if you want metadata attached, unfortunately you have to do this manually because Torch doesn't add metadata upon downloading. But tell me a way where you won't have to do this manually. Plus, it's a good weekend project to listen to a few albums and add titles, artist, track info, discover new songs and artists and expand your knowledge of the world of music.*
 
 
 Repeat steps 4 and 5 to obtain desired files.
