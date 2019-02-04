@@ -6,6 +6,17 @@ If you have bought some kind of media and no longer have access to them due to c
 
 *Note: This is intended for media you have legal access to such as you found songs on YouTube from a CD you bought, but is too scratched to be read. Or you bought a movie and accidentally rm'd it on Linux (it happens to all of us, sorry for your loss), but found it from some online streaming source. I am not responsible for misuse and I do not have any affiliation with the companies whose products I've linked.*
 
+***NOTE: Torch is built off of Chrome and YouTube MUSIC videos no longer work. The best site I've found is: http://red-mp3.me, which used to have a .co domain, kind of shady.***
+
+ ***Problem: In order to do download from the above link, it states that you need to "be" in Ukraine or Russia. ***
+ 
+ ***Paid Solution (Best): Use Windscribe VPN and rent services of Ukrainian or Russian services with unlimited bandwidth for $2/month plus all the free locations. And logs exist short term and only record bandwith and session ids, and they're in Canada and aren't subject to subpoenas sinces logs are deleted within minutes and there's literally nothing to hand over. Seriously, IT'S WORTH IT.***
+ 
+ ***Free Solution (Decent): Install Opera browser (https://www.opera.com/download). Configure settings similar to step 3 of the old method (below). Ensure you enable VPN in settings. Click on VPN box to left of address/search bar and turn it on. Select Europe in the Virtual Location drop down box. THIS IS NOT GUARENTEED TO WORK, but even when the VPN's IP location says Norway or Iran it still tends to work for me.***
+ 
+_______________________________________________________________________________________________________________________________________
+***OLD METHOD / NO LONGER WORKS / DEPRECATED***
+
 1. Download Torch Browser: https://torchbrowser.com
 2. Install Torch Browser. Read all checkbox options where applicable. It's free.
 3. Immediately upon opening torch:
@@ -17,12 +28,16 @@ If you have bought some kind of media and no longer have access to them due to c
       + Privacy and Security: Send Do Not Track Request --> On
       + Privacy and Security: Review all "Content Settings"
       + Passwords and Forms: Offer to save passwords --> Off
+      + Make default search engine DuckDuckGo
    + Go to torch://settings and (important):
       + Downloads: Ask where to save each file before downloading --> On
       + Download Accelerator: On with 8 Connections
       + Media Grabber: Show a menu
       
+      
+      
 4. Browse to the media source using Torch, for example https://youtu.be/LIiLoT4Po-c
+
 5. Click on the button to the right of the navigation bar that looks like an arrow pointing to an upside down staple and select the download format (just video file or video and audio files) and location. *Note: there is no need to wait for the video or audio to buffer before downloading it. Another benefit.* 
 
 Video:
