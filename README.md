@@ -8,7 +8,7 @@ If you have bought some kind of media and no longer have access to them due to c
 
 ***NOTE: Torch is built off of Chrome and YouTube MUSIC videos no longer work. The best site I've found is: http://red-mp3.me, which used to have a .co domain, kind of shady.***
 
- ***Problem: In order to do download from the above link, it states that you need to "be" in Ukraine or Russia. ***
+ ***Problem: In order to do download from the above link, it states that you need to "be" in Ukraine or Russia.***
  
  ***Paid Solution (Best): Use Windscribe VPN and rent services of Ukrainian or Russian services with unlimited bandwidth for $2/month plus all the free locations. And logs exist short term and only record bandwith and session ids, and they're in Canada and aren't subject to subpoenas sinces logs are deleted within minutes and there's literally nothing to hand over. Seriously, IT'S WORTH IT.***
  
